@@ -1,12 +1,56 @@
-# React + Vite
+# Sohardbegraj — Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal website repository! 🚀
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm **Sohard begraj**, a student of Mathematics and Computing who is passionate about learning, coding, and problem-solving. I'm enthusiastic about Data Structures & Algorithms, web development (MERN stack), Python, and currently exploring Rust by planning to build a chess engine. I enjoy playing chess, tackling LeetCode problems, and always strive to learn something new!
 
-## Expanding the ESLint configuration
+## 🌐 What’s Here
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This website is my digital home to:
+- Share my projects, ideas, and coding journey
+- Write about mathematics, computing, and the strategies I learn from chess
+- Showcase my portfolio and skills
+- Provide ways to connect with me
+
+## 🚧 Tech Stack
+
+- **Frontend:** React.js (or your chosen framework)
+- **Backend:** Node.js, Express (if applicable)
+- **Other:** HTML, CSS, JavaScript, Python, and more!
+- **Hosting:** (GitHub Pages, Vercel, Netlify, etc. — update as needed)
+
+## 💡 Features
+
+- Responsive and clean design
+- Project showcase
+- Blog or notes section (coming soon!)
+- Contact form or social links
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Sohardbegraj/personal-website.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+(Adjust these instructions if your stack/setup is different!)
+
+## 📈 Future Plans
+
+
+- Integrate a portfolio section with interactive project demos
+- Add more features as I learn and experiment!
+
+
+Thanks for visiting my repository! Stay tuned for more updates as my website (and my journey) grows.
