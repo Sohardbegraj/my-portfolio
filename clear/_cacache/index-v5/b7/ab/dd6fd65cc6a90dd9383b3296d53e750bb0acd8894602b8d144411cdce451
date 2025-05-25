@@ -1,0 +1,2 @@
+
+de949fca2ed7cccafe0cf617c713a65c5ac875ce	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tailwindcss","integrity":null,"time":1748008870057,"size":"0","metadata":{"time":1748008870056,"url":"http://registry.npmjs.org/tailwindcss","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:09 GMT","location":"https://registry.npmjs.org/tailwindcss","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+21aa94e943a2419e7a68873c8c6001833730034d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz","integrity":null,"time":1748008121565,"size":"0","metadata":{"time":1748008121565,"url":"http://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 13:48:41 GMT","location":"https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

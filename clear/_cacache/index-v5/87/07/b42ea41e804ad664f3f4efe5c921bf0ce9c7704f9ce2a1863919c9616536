@@ -1,0 +1,2 @@
+
+65b9d8a7fc746739bab1321a3c341a8af2c167ae	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fraction.js/-/fraction.js-4.3.7.tgz","integrity":null,"time":1748008878760,"size":"0","metadata":{"time":1748008878760,"url":"http://registry.npmjs.org/fraction.js/-/fraction.js-4.3.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:18 GMT","location":"https://registry.npmjs.org/fraction.js/-/fraction.js-4.3.7.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

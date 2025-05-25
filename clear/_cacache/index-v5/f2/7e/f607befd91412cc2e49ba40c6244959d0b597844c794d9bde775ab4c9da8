@@ -1,0 +1,2 @@
+
+67fd3a1242efc3e154e2bdac1e056242cc5d7fba	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yocto-queue","integrity":null,"time":1748008119476,"size":"0","metadata":{"time":1748008119476,"url":"http://registry.npmjs.org/yocto-queue","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 13:48:39 GMT","location":"https://registry.npmjs.org/yocto-queue","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

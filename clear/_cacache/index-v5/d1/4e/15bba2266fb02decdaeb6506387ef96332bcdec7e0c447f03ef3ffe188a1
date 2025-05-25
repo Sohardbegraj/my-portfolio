@@ -1,0 +1,2 @@
+
+0fa463726e745a72348f6f486ce9383069896331	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/framer-motion","integrity":null,"time":1748096739154,"size":"0","metadata":{"time":1748096739154,"url":"http://registry.npmjs.org/framer-motion","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 24 May 2025 14:25:38 GMT","location":"https://registry.npmjs.org/framer-motion","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

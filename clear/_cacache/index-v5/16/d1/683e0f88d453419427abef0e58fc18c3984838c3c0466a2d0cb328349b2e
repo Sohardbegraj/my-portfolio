@@ -1,0 +1,2 @@
+
+1bcd52acb056ac5c3ffcf33bdd8e3773ae947d67	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/eastasianwidth","integrity":null,"time":1748008876125,"size":"0","metadata":{"time":1748008876125,"url":"http://registry.npmjs.org/eastasianwidth","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:15 GMT","location":"https://registry.npmjs.org/eastasianwidth","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+f781bf6b7503fed0f77f5f425772bab41384d464	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/semver","integrity":null,"time":1748008115438,"size":"0","metadata":{"time":1748008115437,"url":"http://registry.npmjs.org/semver","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 13:48:35 GMT","location":"https://registry.npmjs.org/semver","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

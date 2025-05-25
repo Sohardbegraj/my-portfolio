@@ -1,0 +1,2 @@
+
+281d4ab474c78460c436e9a2474ec31e4465c4cb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/glob/-/glob-10.4.5.tgz","integrity":null,"time":1748008877890,"size":"0","metadata":{"time":1748008877890,"url":"http://registry.npmjs.org/glob/-/glob-10.4.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:17 GMT","location":"https://registry.npmjs.org/glob/-/glob-10.4.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

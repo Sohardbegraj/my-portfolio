@@ -1,0 +1,2 @@
+
+8eb24c2cc17a2f7a6531e271ade4f89d6903482f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/react-draggable","integrity":null,"time":1748112693345,"size":"0","metadata":{"time":1748112693344,"url":"http://registry.npmjs.org/react-draggable","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 24 May 2025 18:51:31 GMT","location":"https://registry.npmjs.org/react-draggable","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a9f68c218c1d854e08b98f60e27cd8e872cd618f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz","integrity":null,"time":1748112695071,"size":"0","metadata":{"time":1748112695071,"url":"http://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 24 May 2025 18:51:33 GMT","location":"https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

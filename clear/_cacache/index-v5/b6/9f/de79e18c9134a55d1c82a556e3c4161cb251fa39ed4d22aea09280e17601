@@ -1,0 +1,2 @@
+
+de175fa8b310fd6aaa053ac22d40ebb0c036e57d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz","integrity":null,"time":1748008878726,"size":"0","metadata":{"time":1748008878726,"url":"http://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:18 GMT","location":"https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+221cf0fe1d26c998137e585f9020acb4f179cd9c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/motion/-/motion-12.12.2.tgz","integrity":null,"time":1748096739920,"size":"0","metadata":{"time":1748096739920,"url":"http://registry.npmjs.org/motion/-/motion-12.12.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 24 May 2025 14:25:39 GMT","location":"https://registry.npmjs.org/motion/-/motion-12.12.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

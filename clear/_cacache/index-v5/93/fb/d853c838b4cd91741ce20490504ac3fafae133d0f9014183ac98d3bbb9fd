@@ -1,0 +1,2 @@
+
+705fc140518859f63847b3be334aa09c02159545	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/binary-extensions","integrity":null,"time":1748008873113,"size":"0","metadata":{"time":1748008873112,"url":"http://registry.npmjs.org/binary-extensions","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:12 GMT","location":"https://registry.npmjs.org/binary-extensions","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

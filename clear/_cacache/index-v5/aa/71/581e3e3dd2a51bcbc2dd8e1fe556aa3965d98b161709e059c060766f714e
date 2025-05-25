@@ -1,0 +1,2 @@
+
+0cc67ed2971e0ecd8b3103fd306f49441f65881d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@humanwhocodes/retry/-/retry-0.3.1.tgz","integrity":null,"time":1748008123733,"size":"0","metadata":{"time":1748008123733,"url":"http://registry.npmjs.org/@humanwhocodes/retry/-/retry-0.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 13:48:43 GMT","location":"https://registry.npmjs.org/@humanwhocodes/retry/-/retry-0.3.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

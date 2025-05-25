@@ -1,0 +1,2 @@
+
+38965b15fa5c32c00cc4fd8937d51d0fe61d88bc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz","integrity":null,"time":1748008878337,"size":"0","metadata":{"time":1748008878337,"url":"http://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:17 GMT","location":"https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+c59be9aad7f4e0bc9a5836c13d1c1e4b801d5015	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/queue-microtask","integrity":null,"time":1748008873971,"size":"0","metadata":{"time":1748008873971,"url":"http://registry.npmjs.org/queue-microtask","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 14:01:13 GMT","location":"https://registry.npmjs.org/queue-microtask","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

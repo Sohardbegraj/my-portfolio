@@ -1,0 +1,2 @@
+
+bd25d0a54b2fc85de90ff7dff7e0fa928a3a5139	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gensync","integrity":null,"time":1748008115436,"size":"0","metadata":{"time":1748008115435,"url":"http://registry.npmjs.org/gensync","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 23 May 2025 13:48:35 GMT","location":"https://registry.npmjs.org/gensync","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
