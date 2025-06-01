@@ -114,7 +114,7 @@ export default function ChatApp() {
       </div>
 
       {/* Messages */}
-      <div ref={containerRef} className="flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-black px-3 py-2 space-y-3 bg-black">
+      <div ref={containerRef} className="flex-1 overflow-y-auto px-3 py-2 space-y-3 bg-black">
         {messages.map((msg, idx) => (
           <div
             key={idx}
