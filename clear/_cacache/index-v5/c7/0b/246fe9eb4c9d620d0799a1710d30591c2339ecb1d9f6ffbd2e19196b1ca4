@@ -1,0 +1,2 @@
+
+64987ef6fcc79e14194e2f2b5ddc5f9c62a0ab04	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ci-info/-/ci-info-3.9.0.tgz","integrity":null,"time":1748782108522,"size":"0","metadata":{"time":1748782108522,"url":"http://registry.npmjs.org/ci-info/-/ci-info-3.9.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:27 GMT","location":"https://registry.npmjs.org/ci-info/-/ci-info-3.9.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

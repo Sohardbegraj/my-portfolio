@@ -1,0 +1,2 @@
+
+b0c113fccb917fd9c3f4b7c2c2d0c20c93e21a51	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/safe-regex-test","integrity":null,"time":1748781974637,"size":"0","metadata":{"time":1748781974636,"url":"http://registry.npmjs.org/safe-regex-test","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:13 GMT","location":"https://registry.npmjs.org/safe-regex-test","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0c0854f0206d6af87c224616aabf462a3bc20505	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/w3c-hr-time","integrity":null,"time":1748782006279,"size":"0","metadata":{"time":1748782006279,"url":"http://registry.npmjs.org/w3c-hr-time","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:45 GMT","location":"https://registry.npmjs.org/w3c-hr-time","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

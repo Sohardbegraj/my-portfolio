@@ -1,0 +1,2 @@
+
+29eae61ac23dbb07d7346dda6fd47cbedc63eacb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ajv-errors","integrity":null,"time":1748782008546,"size":"0","metadata":{"time":1748782008546,"url":"http://registry.npmjs.org/ajv-errors","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:47 GMT","location":"https://registry.npmjs.org/ajv-errors","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

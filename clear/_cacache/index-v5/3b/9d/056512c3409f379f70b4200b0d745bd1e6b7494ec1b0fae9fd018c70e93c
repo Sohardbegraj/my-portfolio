@@ -1,0 +1,2 @@
+
+7b09d70b63a0ee20d1ad4658f6b2c647e36f7c99	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/math-intrinsics","integrity":null,"time":1748715558556,"size":"0","metadata":{"time":1748715558556,"url":"http://registry.npmjs.org/math-intrinsics","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 31 May 2025 18:19:17 GMT","location":"https://registry.npmjs.org/math-intrinsics","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

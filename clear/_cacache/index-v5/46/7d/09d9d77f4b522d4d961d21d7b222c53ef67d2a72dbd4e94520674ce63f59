@@ -1,0 +1,2 @@
+
+d4b516cdee247c29a87497cd91a30f5f52f1000d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gaze/-/gaze-1.1.3.tgz","integrity":null,"time":1748782108348,"size":"0","metadata":{"time":1748782108347,"url":"http://registry.npmjs.org/gaze/-/gaze-1.1.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:27 GMT","location":"https://registry.npmjs.org/gaze/-/gaze-1.1.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+d98426e6853460117d5b9190184238364352258d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/rgba-regex","integrity":null,"time":1748782015361,"size":"0","metadata":{"time":1748782015360,"url":"http://registry.npmjs.org/rgba-regex","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:54 GMT","location":"https://registry.npmjs.org/rgba-regex","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

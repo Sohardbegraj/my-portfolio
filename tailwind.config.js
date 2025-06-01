@@ -10,8 +10,11 @@ export default {
         teal:"#635985",
         amber:"#18122B",
         silver:"#2b2b2b"
-      }
+      },
+      'logoimg': "url('my-portfolio/src/assets/1.jpg')"
     },
   },
-  plugins: [],
+  plugins: [
+  require('tailwind-scrollbar'),
+],
 }

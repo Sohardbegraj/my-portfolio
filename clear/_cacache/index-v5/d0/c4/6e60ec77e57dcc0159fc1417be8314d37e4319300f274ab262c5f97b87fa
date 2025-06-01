@@ -1,0 +1,2 @@
+
+0353fd82104649283d36dc4de6478e4cc8176983	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/axobject-query","integrity":null,"time":1748781974629,"size":"0","metadata":{"time":1748781974629,"url":"http://registry.npmjs.org/axobject-query","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:13 GMT","location":"https://registry.npmjs.org/axobject-query","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

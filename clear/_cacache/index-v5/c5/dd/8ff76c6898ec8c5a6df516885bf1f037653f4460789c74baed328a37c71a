@@ -1,0 +1,2 @@
+
+6f754dd336fe22d24388b75af3b9dd8d59e42e39	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@gar%2fpromisify","integrity":null,"time":1748782034162,"size":"0","metadata":{"time":1748782034162,"url":"http://registry.npmjs.org/@gar%2fpromisify","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:13 GMT","location":"https://registry.npmjs.org/@gar%2Fpromisify","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

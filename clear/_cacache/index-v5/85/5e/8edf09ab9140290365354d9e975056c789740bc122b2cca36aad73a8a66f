@@ -1,0 +1,2 @@
+
+68517df36c3ac7c31f81b686993326d70c793ee9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@hapi/address/-/address-2.1.4.tgz","integrity":null,"time":1748782085290,"size":"0","metadata":{"time":1748782085290,"url":"http://registry.npmjs.org/@hapi/address/-/address-2.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:04 GMT","location":"https://registry.npmjs.org/@hapi/address/-/address-2.1.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

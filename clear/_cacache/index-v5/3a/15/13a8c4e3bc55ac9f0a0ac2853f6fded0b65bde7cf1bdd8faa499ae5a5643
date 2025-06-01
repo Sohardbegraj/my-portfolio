@@ -1,0 +1,2 @@
+
+b3f4b27a77c73eadad15a4f7aab7ec82785e6f9b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/assert-plus","integrity":null,"time":1748782022727,"size":"0","metadata":{"time":1748782022727,"url":"http://registry.npmjs.org/assert-plus","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:02 GMT","location":"https://registry.npmjs.org/assert-plus","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

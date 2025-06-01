@@ -1,0 +1,2 @@
+
+ba7561493d1a9e8533fc844eb518961f499c03ed	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/errno/-/errno-0.1.8.tgz","integrity":null,"time":1748782089998,"size":"0","metadata":{"time":1748782089998,"url":"http://registry.npmjs.org/errno/-/errno-0.1.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:09 GMT","location":"https://registry.npmjs.org/errno/-/errno-0.1.8.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

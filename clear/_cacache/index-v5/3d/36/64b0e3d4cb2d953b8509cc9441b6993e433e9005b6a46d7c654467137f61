@@ -1,0 +1,2 @@
+
+0a4d731fb50e8750fd0cce6f1d079c10a533f70c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/shallow-equal/-/shallow-equal-1.2.1.tgz","integrity":null,"time":1748782107310,"size":"0","metadata":{"time":1748782107310,"url":"http://registry.npmjs.org/shallow-equal/-/shallow-equal-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:26 GMT","location":"https://registry.npmjs.org/shallow-equal/-/shallow-equal-1.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

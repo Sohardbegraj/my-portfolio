@@ -1,0 +1,2 @@
+
+ad7817b0a866b99992521b5f64290b226bcb4f8d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/os-homedir","integrity":null,"time":1748781968820,"size":"0","metadata":{"time":1748781968819,"url":"http://registry.npmjs.org/os-homedir","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:08 GMT","location":"https://registry.npmjs.org/os-homedir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+ef79c6bccdcf2a36237888ff9f06dfa468fa5e98	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/psl/-/psl-1.15.0.tgz","integrity":null,"time":1748782090825,"size":"0","metadata":{"time":1748782090825,"url":"http://registry.npmjs.org/psl/-/psl-1.15.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:09 GMT","location":"https://registry.npmjs.org/psl/-/psl-1.15.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

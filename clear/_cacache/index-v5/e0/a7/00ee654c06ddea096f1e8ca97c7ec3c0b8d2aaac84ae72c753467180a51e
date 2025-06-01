@@ -1,0 +1,2 @@
+
+9e6096fc89502061ca61d1cf179589cd32872e1f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz","integrity":null,"time":1748782107575,"size":"0","metadata":{"time":1748782107575,"url":"http://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:26 GMT","location":"https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

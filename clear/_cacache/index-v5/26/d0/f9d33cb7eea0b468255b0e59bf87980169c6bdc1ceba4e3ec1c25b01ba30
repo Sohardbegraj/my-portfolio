@@ -1,0 +1,2 @@
+
+7b32b899849c2c35a646a484772d2cc6b6353f8b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz","integrity":null,"time":1748782084109,"size":"0","metadata":{"time":1748782084108,"url":"http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:03 GMT","location":"https://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

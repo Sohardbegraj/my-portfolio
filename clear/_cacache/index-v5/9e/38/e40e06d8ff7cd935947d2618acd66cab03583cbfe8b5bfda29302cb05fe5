@@ -1,0 +1,2 @@
+
+1eb0d6d6fa7022c89c5c6602372748393c651f9b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-6.0.1.tgz","integrity":null,"time":1748782098801,"size":"0","metadata":{"time":1748782098801,"url":"http://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-6.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:17 GMT","location":"https://registry.npmjs.org/@sinonjs/fake-timers/-/fake-timers-6.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b0e72f172998e9960a9984ff8542387c16e3cdb8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/node-forge","integrity":null,"time":1748782046817,"size":"0","metadata":{"time":1748782046816,"url":"http://registry.npmjs.org/node-forge","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:26 GMT","location":"https://registry.npmjs.org/node-forge","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

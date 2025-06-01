@@ -1,0 +1,2 @@
+
+c99d1bd87204885f41493ea0c39f6fff83777299	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-typedarray","integrity":null,"time":1748781966955,"size":"0","metadata":{"time":1748781966954,"url":"http://registry.npmjs.org/is-typedarray","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:06 GMT","location":"https://registry.npmjs.org/is-typedarray","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

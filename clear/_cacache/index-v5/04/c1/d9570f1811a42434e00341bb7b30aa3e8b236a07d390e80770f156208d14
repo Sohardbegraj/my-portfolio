@@ -1,0 +1,2 @@
+
+392352e736e4018fd25d18c6734bd9ae83b4ca3a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tsutils","integrity":null,"time":1748781973889,"size":"0","metadata":{"time":1748781973889,"url":"http://registry.npmjs.org/tsutils","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:13 GMT","location":"https://registry.npmjs.org/tsutils","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

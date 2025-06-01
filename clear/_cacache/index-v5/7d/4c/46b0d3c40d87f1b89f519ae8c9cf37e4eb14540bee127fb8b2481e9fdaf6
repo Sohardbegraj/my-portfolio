@@ -1,0 +1,2 @@
+
+3a9ffd0254802a6b57d4bba18bc901c8555c62dd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/babel-preset-jest","integrity":null,"time":1748781973886,"size":"0","metadata":{"time":1748781973886,"url":"http://registry.npmjs.org/babel-preset-jest","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:13 GMT","location":"https://registry.npmjs.org/babel-preset-jest","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

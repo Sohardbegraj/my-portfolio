@@ -1,0 +1,2 @@
+
+3815d50573023d65795a38f2798a6a0e8d912d83	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/devlop","integrity":null,"time":1748715726244,"size":"0","metadata":{"time":1748715726244,"url":"http://registry.npmjs.org/devlop","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 31 May 2025 18:22:04 GMT","location":"https://registry.npmjs.org/devlop","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

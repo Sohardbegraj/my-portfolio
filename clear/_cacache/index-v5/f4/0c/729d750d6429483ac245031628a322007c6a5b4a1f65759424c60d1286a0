@@ -1,0 +1,2 @@
+
+547c41c469bb7f241cc177bd42236c1ec22eb586	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/block-stream/-/block-stream-0.0.9.tgz","integrity":null,"time":1748782091203,"size":"0","metadata":{"time":1748782091202,"url":"http://registry.npmjs.org/block-stream/-/block-stream-0.0.9.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:10 GMT","location":"https://registry.npmjs.org/block-stream/-/block-stream-0.0.9.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1879e65b4099aa65ec4043bc39a7ddd3bc2ee0a0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/aproba","integrity":null,"time":1748781969318,"size":"0","metadata":{"time":1748781969318,"url":"http://registry.npmjs.org/aproba","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:08 GMT","location":"https://registry.npmjs.org/aproba","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

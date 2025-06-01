@@ -1,0 +1,2 @@
+
+2f683953240c5cfe38631051e0c45a93ecbb61d8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-number-object","integrity":null,"time":1748782036227,"size":"0","metadata":{"time":1748782036227,"url":"http://registry.npmjs.org/is-number-object","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:15 GMT","location":"https://registry.npmjs.org/is-number-object","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

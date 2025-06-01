@@ -1,0 +1,2 @@
+
+2812b06e0a80df2585c043fb3d7cb7cbedb4e215	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/path-is-inside/-/path-is-inside-1.0.2.tgz","integrity":null,"time":1748782086713,"size":"0","metadata":{"time":1748782086713,"url":"http://registry.npmjs.org/path-is-inside/-/path-is-inside-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:05 GMT","location":"https://registry.npmjs.org/path-is-inside/-/path-is-inside-1.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

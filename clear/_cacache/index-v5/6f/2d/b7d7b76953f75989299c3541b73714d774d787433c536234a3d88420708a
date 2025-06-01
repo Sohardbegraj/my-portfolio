@@ -1,0 +1,2 @@
+
+3e52af6f42a91581ec993fc64e4994ebdd465c87	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jest-validate","integrity":null,"time":1748782000649,"size":"0","metadata":{"time":1748782000649,"url":"http://registry.npmjs.org/jest-validate","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:39 GMT","location":"https://registry.npmjs.org/jest-validate","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+148e593e15b36f75f64c69eced5b94f4d5f579a0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz","integrity":null,"time":1748782121164,"size":"0","metadata":{"time":1748782121163,"url":"http://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:40 GMT","location":"https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b6e79c75042420b3eda7cb00c9c2b7d210430330	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.4.tgz","integrity":null,"time":1748782131519,"size":"0","metadata":{"time":1748782131519,"url":"http://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:50 GMT","location":"https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

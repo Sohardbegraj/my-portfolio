@@ -1,0 +1,2 @@
+
+b40e61db9edf5d313260fcc0b3230ba89d411d47	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz","integrity":null,"time":1748782097272,"size":"0","metadata":{"time":1748782097272,"url":"http://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:16 GMT","location":"https://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

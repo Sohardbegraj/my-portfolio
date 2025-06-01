@@ -1,0 +1,2 @@
+
+62cdc8756381597fc6fabd79fe708c5520c03140	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/worker-rpc","integrity":null,"time":1748782018119,"size":"0","metadata":{"time":1748782018119,"url":"http://registry.npmjs.org/worker-rpc","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:57 GMT","location":"https://registry.npmjs.org/worker-rpc","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b60221ef126409c68b4563998b050107ef411bb5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/recursive-readdir","integrity":null,"time":1748781976347,"size":"0","metadata":{"time":1748781976347,"url":"http://registry.npmjs.org/recursive-readdir","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:15 GMT","location":"https://registry.npmjs.org/recursive-readdir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3696a30f242ebe5dfb1d125f7c4d34aeef905e16	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz","integrity":null,"time":1748782096033,"size":"0","metadata":{"time":1748782096033,"url":"http://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:15 GMT","location":"https://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

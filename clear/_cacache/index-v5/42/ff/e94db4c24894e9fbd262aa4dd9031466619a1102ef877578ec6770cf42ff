@@ -1,0 +1,2 @@
+
+d466dde45d1e32e83ff62e7cb351cdce3190a490	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz","integrity":null,"time":1748715559571,"size":"0","metadata":{"time":1748715559571,"url":"http://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 31 May 2025 18:19:18 GMT","location":"https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

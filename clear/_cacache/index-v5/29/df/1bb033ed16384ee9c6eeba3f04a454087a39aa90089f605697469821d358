@@ -1,0 +1,2 @@
+
+59a029792e9b88079ee10af3d1b4b0fac4ff2152	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/sanitize.css/-/sanitize.css-10.0.0.tgz","integrity":null,"time":1748782095448,"size":"0","metadata":{"time":1748782095448,"url":"http://registry.npmjs.org/sanitize.css/-/sanitize.css-10.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:14 GMT","location":"https://registry.npmjs.org/sanitize.css/-/sanitize.css-10.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

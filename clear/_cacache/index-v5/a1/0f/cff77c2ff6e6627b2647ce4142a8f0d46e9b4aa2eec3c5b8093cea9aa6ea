@@ -1,0 +1,2 @@
+
+e0569a2fee0454a1cfbf2ce78949eeb613b8b62e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/browserify-zlib","integrity":null,"time":1748782037857,"size":"0","metadata":{"time":1748782037857,"url":"http://registry.npmjs.org/browserify-zlib","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:17 GMT","location":"https://registry.npmjs.org/browserify-zlib","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

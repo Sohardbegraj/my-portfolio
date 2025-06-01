@@ -1,0 +1,2 @@
+
+1edeb2618a6be84fb726fc5601ad01d491bf07bf	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fast-uri","integrity":null,"time":1748782067202,"size":"0","metadata":{"time":1748782067202,"url":"http://registry.npmjs.org/fast-uri","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:46 GMT","location":"https://registry.npmjs.org/fast-uri","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

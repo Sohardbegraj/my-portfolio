@@ -1,0 +1,2 @@
+
+d29b2229fd79b8a1820680abdb53d2082ff00958	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/des.js/-/des.js-1.1.0.tgz","integrity":null,"time":1748782088883,"size":"0","metadata":{"time":1748782088883,"url":"http://registry.npmjs.org/des.js/-/des.js-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:07 GMT","location":"https://registry.npmjs.org/des.js/-/des.js-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

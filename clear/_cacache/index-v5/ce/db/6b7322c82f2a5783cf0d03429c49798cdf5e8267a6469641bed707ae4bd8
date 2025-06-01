@@ -1,0 +1,2 @@
+
+335db8d396754f2669de91c0bca62b018113266e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hpack.js","integrity":null,"time":1748782051078,"size":"0","metadata":{"time":1748782051078,"url":"http://registry.npmjs.org/hpack.js","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:30 GMT","location":"https://registry.npmjs.org/hpack.js","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

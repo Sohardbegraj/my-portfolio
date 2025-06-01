@@ -1,0 +1,2 @@
+
+e99f9bae6284d029b81897850a04a6b2ffe9f77a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/big.js/-/big.js-5.2.2.tgz","integrity":null,"time":1748782097317,"size":"0","metadata":{"time":1748782097316,"url":"http://registry.npmjs.org/big.js/-/big.js-5.2.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:16 GMT","location":"https://registry.npmjs.org/big.js/-/big.js-5.2.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

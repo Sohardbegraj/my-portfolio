@@ -1,0 +1,2 @@
+
+a5aa20ba169b7b9de38752c72d38023a2d949224	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/sass-graph","integrity":null,"time":1748781952277,"size":"0","metadata":{"time":1748781952276,"url":"http://registry.npmjs.org/sass-graph","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:45:51 GMT","location":"https://registry.npmjs.org/sass-graph","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

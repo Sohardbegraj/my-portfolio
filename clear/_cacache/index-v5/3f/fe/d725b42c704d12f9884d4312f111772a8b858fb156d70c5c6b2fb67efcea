@@ -1,0 +1,2 @@
+
+f4159e70ccb5e3e99333b53b458410e1109d91a4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/immer","integrity":null,"time":1748781976124,"size":"0","metadata":{"time":1748781976123,"url":"http://registry.npmjs.org/immer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:15 GMT","location":"https://registry.npmjs.org/immer","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

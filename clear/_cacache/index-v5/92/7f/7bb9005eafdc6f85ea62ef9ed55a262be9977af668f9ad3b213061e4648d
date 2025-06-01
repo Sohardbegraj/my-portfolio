@@ -1,0 +1,2 @@
+
+fc253bfa01506b21b03dc5cf883c64585fbacabc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/asap/-/asap-2.0.6.tgz","integrity":null,"time":1748782094171,"size":"0","metadata":{"time":1748782094171,"url":"http://registry.npmjs.org/asap/-/asap-2.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:13 GMT","location":"https://registry.npmjs.org/asap/-/asap-2.0.6.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

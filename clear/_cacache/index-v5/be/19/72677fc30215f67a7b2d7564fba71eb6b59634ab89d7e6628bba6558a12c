@@ -1,0 +1,2 @@
+
+256a14c0e293a856d7c34c9125276e3e591faf40	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/bonjour/-/bonjour-3.5.0.tgz","integrity":null,"time":1748782088463,"size":"0","metadata":{"time":1748782088463,"url":"http://registry.npmjs.org/bonjour/-/bonjour-3.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:07 GMT","location":"https://registry.npmjs.org/bonjour/-/bonjour-3.5.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

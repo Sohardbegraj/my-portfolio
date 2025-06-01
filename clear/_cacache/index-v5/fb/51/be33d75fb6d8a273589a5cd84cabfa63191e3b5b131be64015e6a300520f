@@ -1,0 +1,2 @@
+
+d247ce4b5873d0c039e842fbe7eb04e294bd9ad8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pseudomap/-/pseudomap-1.0.2.tgz","integrity":null,"time":1748782083682,"size":"0","metadata":{"time":1748782083682,"url":"http://registry.npmjs.org/pseudomap/-/pseudomap-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:02 GMT","location":"https://registry.npmjs.org/pseudomap/-/pseudomap-1.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

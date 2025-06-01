@@ -1,0 +1,2 @@
+
+0eba4d4923360a664a8a7a5d847cdbb590eb3567	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/killable","integrity":null,"time":1748781976833,"size":"0","metadata":{"time":1748781976833,"url":"http://registry.npmjs.org/killable","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:16 GMT","location":"https://registry.npmjs.org/killable","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

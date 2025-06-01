@@ -1,0 +1,2 @@
+
+3075fdd618a4ec051d11448b2a35090f5eb44564	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jest-worker/-/jest-worker-24.9.0.tgz","integrity":null,"time":1748782112892,"size":"0","metadata":{"time":1748782112892,"url":"http://registry.npmjs.org/jest-worker/-/jest-worker-24.9.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:31 GMT","location":"https://registry.npmjs.org/jest-worker/-/jest-worker-24.9.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+46c29476392614e9adc2cabd773541b264acfe3c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/zwitch/-/zwitch-2.0.4.tgz","integrity":null,"time":1748715733605,"size":"0","metadata":{"time":1748715733605,"url":"http://registry.npmjs.org/zwitch/-/zwitch-2.0.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sat, 31 May 2025 18:22:12 GMT","location":"https://registry.npmjs.org/zwitch/-/zwitch-2.0.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

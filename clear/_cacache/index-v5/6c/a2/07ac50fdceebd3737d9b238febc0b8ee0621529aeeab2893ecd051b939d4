@@ -1,0 +1,2 @@
+
+6fe543d4b6cef9a9dd668f4866d484703a231b1b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/buffer-from","integrity":null,"time":1748782007412,"size":"0","metadata":{"time":1748782007411,"url":"http://registry.npmjs.org/buffer-from","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:46 GMT","location":"https://registry.npmjs.org/buffer-from","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

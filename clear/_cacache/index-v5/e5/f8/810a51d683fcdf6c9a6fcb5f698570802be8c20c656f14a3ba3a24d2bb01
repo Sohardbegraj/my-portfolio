@@ -1,0 +1,2 @@
+
+2755723a2ca13176f0c86a7cbdb937b7b4f465ad	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/domutils/-/domutils-1.7.0.tgz","integrity":null,"time":1748782127032,"size":"0","metadata":{"time":1748782127031,"url":"http://registry.npmjs.org/domutils/-/domutils-1.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:46 GMT","location":"https://registry.npmjs.org/domutils/-/domutils-1.7.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

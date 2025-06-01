@@ -1,0 +1,2 @@
+
+5f15dabd0d3ff18b29abcd68380e1554f9bf7bf4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gzip-size/-/gzip-size-5.1.1.tgz","integrity":null,"time":1748782093973,"size":"0","metadata":{"time":1748782093973,"url":"http://registry.npmjs.org/gzip-size/-/gzip-size-5.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:12 GMT","location":"https://registry.npmjs.org/gzip-size/-/gzip-size-5.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

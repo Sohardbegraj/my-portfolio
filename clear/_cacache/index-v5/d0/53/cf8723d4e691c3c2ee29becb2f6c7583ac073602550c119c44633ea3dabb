@@ -1,0 +1,2 @@
+
+de2517a97c2e8ad49b41819c1faa074ae6643c18	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz","integrity":null,"time":1748782101532,"size":"0","metadata":{"time":1748782101531,"url":"http://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:20 GMT","location":"https://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

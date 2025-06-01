@@ -1,0 +1,2 @@
+
+39175a63f475bc329693287b534f17ddbd58c3ac	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/os-browserify","integrity":null,"time":1748782037909,"size":"0","metadata":{"time":1748782037908,"url":"http://registry.npmjs.org/os-browserify","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:17 GMT","location":"https://registry.npmjs.org/os-browserify","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+158c808ecd802bce80da480d1c285e36fccd0d53	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/regexpp/-/regexpp-3.2.0.tgz","integrity":null,"time":1748782104332,"size":"0","metadata":{"time":1748782104331,"url":"http://registry.npmjs.org/regexpp/-/regexpp-3.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:23 GMT","location":"https://registry.npmjs.org/regexpp/-/regexpp-3.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

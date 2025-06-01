@@ -1,0 +1,2 @@
+
+8b76f317ea749b495672c71999228e7f4631627e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pascalcase","integrity":null,"time":1748782062394,"size":"0","metadata":{"time":1748782062394,"url":"http://registry.npmjs.org/pascalcase","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:41 GMT","location":"https://registry.npmjs.org/pascalcase","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

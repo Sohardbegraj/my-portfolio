@@ -1,0 +1,2 @@
+
+fb6729ff51854454947582617a3638a1ee1dee63	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hsl-regex","integrity":null,"time":1748782015363,"size":"0","metadata":{"time":1748782015363,"url":"http://registry.npmjs.org/hsl-regex","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:54 GMT","location":"https://registry.npmjs.org/hsl-regex","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

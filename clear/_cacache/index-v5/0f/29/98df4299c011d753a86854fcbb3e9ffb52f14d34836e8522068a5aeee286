@@ -1,0 +1,2 @@
+
+d7e77df65baa2cf9d78adb0db322dc3070463097	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jest-get-type","integrity":null,"time":1748781963562,"size":"0","metadata":{"time":1748781963561,"url":"http://registry.npmjs.org/jest-get-type","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:02 GMT","location":"https://registry.npmjs.org/jest-get-type","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

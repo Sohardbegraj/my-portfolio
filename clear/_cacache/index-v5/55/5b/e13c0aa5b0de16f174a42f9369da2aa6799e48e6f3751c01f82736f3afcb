@@ -1,0 +1,2 @@
+
+b6016278bf2686ab314fd255aabf02b3350f6867	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ajv/-/ajv-8.17.1.tgz","integrity":null,"time":1748782111029,"size":"0","metadata":{"time":1748782111028,"url":"http://registry.npmjs.org/ajv/-/ajv-8.17.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:30 GMT","location":"https://registry.npmjs.org/ajv/-/ajv-8.17.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

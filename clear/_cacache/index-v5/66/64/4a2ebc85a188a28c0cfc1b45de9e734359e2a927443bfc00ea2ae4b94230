@@ -1,0 +1,2 @@
+
+088084d1cfc5a9dc8d83a19d85d58400d09bad9e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/sass-graph/-/sass-graph-2.2.5.tgz","integrity":null,"time":1748782108330,"size":"0","metadata":{"time":1748782108330,"url":"http://registry.npmjs.org/sass-graph/-/sass-graph-2.2.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:27 GMT","location":"https://registry.npmjs.org/sass-graph/-/sass-graph-2.2.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

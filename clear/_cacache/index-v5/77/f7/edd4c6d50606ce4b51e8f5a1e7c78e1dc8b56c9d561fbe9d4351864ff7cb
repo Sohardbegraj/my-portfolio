@@ -1,0 +1,2 @@
+
+a314e6f0b5c2c0dccbb0ba47371df6e73a221bb8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/evp_bytestokey","integrity":null,"time":1748782042249,"size":"0","metadata":{"time":1748782042249,"url":"http://registry.npmjs.org/evp_bytestokey","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:21 GMT","location":"https://registry.npmjs.org/evp_bytestokey","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

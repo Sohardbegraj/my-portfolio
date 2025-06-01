@@ -1,0 +1,2 @@
+
+e605bbc9f6cc8ab799dc7a8360844fccc22915b6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/import-local/-/import-local-2.0.0.tgz","integrity":null,"time":1748782129631,"size":"0","metadata":{"time":1748782129631,"url":"http://registry.npmjs.org/import-local/-/import-local-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:48 GMT","location":"https://registry.npmjs.org/import-local/-/import-local-2.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

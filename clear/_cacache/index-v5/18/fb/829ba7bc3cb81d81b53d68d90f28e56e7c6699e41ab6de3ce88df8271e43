@@ -1,0 +1,2 @@
+
+0f73f6eb3244db354575db40fc53ca9b748e1f01	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/snapdragon","integrity":null,"time":1748782019302,"size":"0","metadata":{"time":1748782019302,"url":"http://registry.npmjs.org/snapdragon","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:58 GMT","location":"https://registry.npmjs.org/snapdragon","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

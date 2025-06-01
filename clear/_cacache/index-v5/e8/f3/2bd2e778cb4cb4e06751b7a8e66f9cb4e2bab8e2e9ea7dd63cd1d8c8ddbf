@@ -1,0 +1,2 @@
+
+b84b63b710ed8110796b74d6b85dfa741f3a8043	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/strip-indent","integrity":null,"time":1748781961264,"size":"0","metadata":{"time":1748781961264,"url":"http://registry.npmjs.org/strip-indent","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:00 GMT","location":"https://registry.npmjs.org/strip-indent","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

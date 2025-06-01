@@ -1,0 +1,2 @@
+
+4da76e5f8affa873c9a8ad815e2b44bb5cff458d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/clean-stack","integrity":null,"time":1748782034679,"size":"0","metadata":{"time":1748782034679,"url":"http://registry.npmjs.org/clean-stack","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:14 GMT","location":"https://registry.npmjs.org/clean-stack","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

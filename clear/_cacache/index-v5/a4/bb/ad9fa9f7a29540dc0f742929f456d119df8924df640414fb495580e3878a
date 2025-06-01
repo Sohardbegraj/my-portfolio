@@ -1,0 +1,2 @@
+
+b3026e6152459cbd4c1cafe2d3f8c32e51acf89d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/wbuf","integrity":null,"time":1748782051076,"size":"0","metadata":{"time":1748782051076,"url":"http://registry.npmjs.org/wbuf","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:30 GMT","location":"https://registry.npmjs.org/wbuf","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

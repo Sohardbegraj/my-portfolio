@@ -1,0 +1,2 @@
+
+f7cce3954f8f757409f38391205b538d569ee875	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz","integrity":null,"time":1748782092136,"size":"0","metadata":{"time":1748782092136,"url":"http://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:11 GMT","location":"https://registry.npmjs.org/@cnakazawa/watch/-/watch-1.0.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

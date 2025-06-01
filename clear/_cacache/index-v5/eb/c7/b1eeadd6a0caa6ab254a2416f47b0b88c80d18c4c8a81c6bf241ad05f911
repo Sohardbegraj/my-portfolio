@@ -1,0 +1,2 @@
+
+cda58cabb794e703818337262b71f93ff9917b4c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/vendors","integrity":null,"time":1748782012289,"size":"0","metadata":{"time":1748782012289,"url":"http://registry.npmjs.org/vendors","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:51 GMT","location":"https://registry.npmjs.org/vendors","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

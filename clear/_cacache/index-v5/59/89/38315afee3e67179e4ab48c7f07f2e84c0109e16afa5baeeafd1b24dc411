@@ -1,0 +1,2 @@
+
+5c104b12d243c1f074ca3f74cffc1735cbaa2b57	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jest-config/-/jest-config-26.6.3.tgz","integrity":null,"time":1748782099638,"size":"0","metadata":{"time":1748782099638,"url":"http://registry.npmjs.org/jest-config/-/jest-config-26.6.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:18 GMT","location":"https://registry.npmjs.org/jest-config/-/jest-config-26.6.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

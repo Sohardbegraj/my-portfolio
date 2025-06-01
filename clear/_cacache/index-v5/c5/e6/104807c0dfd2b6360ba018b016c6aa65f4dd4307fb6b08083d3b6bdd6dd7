@@ -1,0 +1,2 @@
+
+76b212b55e6eff1e58187a315a00bf599aafed69	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cliui","integrity":null,"time":1748782005471,"size":"0","metadata":{"time":1748782005471,"url":"http://registry.npmjs.org/cliui","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:44 GMT","location":"https://registry.npmjs.org/cliui","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

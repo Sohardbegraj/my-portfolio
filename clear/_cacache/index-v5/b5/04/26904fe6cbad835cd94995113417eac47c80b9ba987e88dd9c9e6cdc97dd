@@ -1,0 +1,2 @@
+
+05f9cad2c5369badd2abb173f168d0f524b15581	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-color-stop","integrity":null,"time":1748782012294,"size":"0","metadata":{"time":1748782012293,"url":"http://registry.npmjs.org/is-color-stop","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:51 GMT","location":"https://registry.npmjs.org/is-color-stop","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

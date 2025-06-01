@@ -1,0 +1,2 @@
+
+e48219d180b746c3b0463a5ef993b1e706def434	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jest-message-util","integrity":null,"time":1748781963558,"size":"0","metadata":{"time":1748781963558,"url":"http://registry.npmjs.org/jest-message-util","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:02 GMT","location":"https://registry.npmjs.org/jest-message-util","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

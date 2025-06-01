@@ -1,0 +1,2 @@
+
+2440538c180ea05bbde030eedd7f7662e38e0197	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/obuf/-/obuf-1.1.2.tgz","integrity":null,"time":1748782086323,"size":"0","metadata":{"time":1748782086323,"url":"http://registry.npmjs.org/obuf/-/obuf-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:05 GMT","location":"https://registry.npmjs.org/obuf/-/obuf-1.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

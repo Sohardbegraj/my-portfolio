@@ -1,0 +1,2 @@
+
+3b0c6920707a143e2fa87d8dd3cd33a03915487b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/raf","integrity":null,"time":1748781976121,"size":"0","metadata":{"time":1748781976121,"url":"http://registry.npmjs.org/raf","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:15 GMT","location":"https://registry.npmjs.org/raf","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

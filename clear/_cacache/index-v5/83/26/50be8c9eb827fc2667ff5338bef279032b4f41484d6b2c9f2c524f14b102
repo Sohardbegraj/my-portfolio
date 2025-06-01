@@ -1,0 +1,2 @@
+
+64c02eff4a001e6f74dff9537400b2f178f2c7e5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz","integrity":null,"time":1748782102339,"size":"0","metadata":{"time":1748782102339,"url":"http://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:21 GMT","location":"https://registry.npmjs.org/doctrine/-/doctrine-2.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+570a4e9bbafb6a20203f7b418e5dc198cb378eb4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-obj","integrity":null,"time":1748782053503,"size":"0","metadata":{"time":1748782053503,"url":"http://registry.npmjs.org/is-obj","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:32 GMT","location":"https://registry.npmjs.org/is-obj","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

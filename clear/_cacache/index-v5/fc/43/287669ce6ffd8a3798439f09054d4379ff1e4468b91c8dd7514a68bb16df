@@ -1,0 +1,2 @@
+
+71b4ac23f5d327de113bef3cd8a407f38c99a8de	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","integrity":null,"time":1748782098036,"size":"0","metadata":{"time":1748782098035,"url":"http://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:17 GMT","location":"https://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

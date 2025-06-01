@@ -1,0 +1,2 @@
+
+12e62ce63b927c0e20516c6120997b5fb299b87a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz","integrity":null,"time":1748782091751,"size":"0","metadata":{"time":1748782091751,"url":"http://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:10 GMT","location":"https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

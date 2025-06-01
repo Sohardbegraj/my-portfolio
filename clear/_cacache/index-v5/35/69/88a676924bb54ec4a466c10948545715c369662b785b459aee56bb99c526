@@ -1,0 +1,2 @@
+
+0446c52aea3d95b1928e6609500ba3617d9b9890	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@hapi%2fbourne","integrity":null,"time":1748782053430,"size":"0","metadata":{"time":1748782053430,"url":"http://registry.npmjs.org/@hapi%2fbourne","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:32 GMT","location":"https://registry.npmjs.org/@hapi%2Fbourne","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

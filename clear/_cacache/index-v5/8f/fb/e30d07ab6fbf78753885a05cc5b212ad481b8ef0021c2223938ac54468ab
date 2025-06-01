@@ -1,0 +1,2 @@
+
+db318c5aaa37a090734be3f4251a163e641eb2d7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/snapdragon/-/snapdragon-0.8.2.tgz","integrity":null,"time":1748782084198,"size":"0","metadata":{"time":1748782084198,"url":"http://registry.npmjs.org/snapdragon/-/snapdragon-0.8.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:03 GMT","location":"https://registry.npmjs.org/snapdragon/-/snapdragon-0.8.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

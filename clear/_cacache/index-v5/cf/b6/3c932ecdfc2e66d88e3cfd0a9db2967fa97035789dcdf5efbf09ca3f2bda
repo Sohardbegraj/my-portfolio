@@ -1,0 +1,2 @@
+
+e6736d3948a14f8297e45f968345e36fa1831090	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/aws4","integrity":null,"time":1748781966845,"size":"0","metadata":{"time":1748781966845,"url":"http://registry.npmjs.org/aws4","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:06 GMT","location":"https://registry.npmjs.org/aws4","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

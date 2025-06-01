@@ -1,0 +1,2 @@
+
+9dcbbb99cb25c161b484ac128178998de0e26840	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/detect-newline/-/detect-newline-3.1.0.tgz","integrity":null,"time":1748782098493,"size":"0","metadata":{"time":1748782098493,"url":"http://registry.npmjs.org/detect-newline/-/detect-newline-3.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:17 GMT","location":"https://registry.npmjs.org/detect-newline/-/detect-newline-3.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

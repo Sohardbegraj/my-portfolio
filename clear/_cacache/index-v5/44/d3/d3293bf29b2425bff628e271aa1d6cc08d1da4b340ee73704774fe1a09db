@@ -1,0 +1,2 @@
+
+b5949ed066ac099123407a316e8c961234cea3d5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/brorand","integrity":null,"time":1748782045210,"size":"0","metadata":{"time":1748782045209,"url":"http://registry.npmjs.org/brorand","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:24 GMT","location":"https://registry.npmjs.org/brorand","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

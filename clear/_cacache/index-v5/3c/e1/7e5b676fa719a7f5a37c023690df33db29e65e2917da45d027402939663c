@@ -1,0 +1,2 @@
+
+4533dd0b1ed48b93be6ace14b6c9f82cf9e5b0b9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cjs-module-lexer","integrity":null,"time":1748782001357,"size":"0","metadata":{"time":1748782001357,"url":"http://registry.npmjs.org/cjs-module-lexer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:40 GMT","location":"https://registry.npmjs.org/cjs-module-lexer","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

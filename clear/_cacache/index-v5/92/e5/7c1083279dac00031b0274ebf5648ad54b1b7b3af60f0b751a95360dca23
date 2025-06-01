@@ -1,0 +1,2 @@
+
+7e4044fa2444f977d6c442242ef90dfaaaa376fe	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/node-releases/-/node-releases-1.1.77.tgz","integrity":null,"time":1748782131510,"size":"0","metadata":{"time":1748782131510,"url":"http://registry.npmjs.org/node-releases/-/node-releases-1.1.77.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:50 GMT","location":"https://registry.npmjs.org/node-releases/-/node-releases-1.1.77.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

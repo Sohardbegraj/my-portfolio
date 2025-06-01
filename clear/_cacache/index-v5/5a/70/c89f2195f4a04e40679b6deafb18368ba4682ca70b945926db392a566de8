@@ -1,0 +1,2 @@
+
+5aaeb953c85b5d708c0fedbd55cf17bc97f91e13	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/react-scripts/-/react-scripts-4.0.1.tgz","integrity":null,"time":1748782110604,"size":"0","metadata":{"time":1748782110604,"url":"http://registry.npmjs.org/react-scripts/-/react-scripts-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:29 GMT","location":"https://registry.npmjs.org/react-scripts/-/react-scripts-4.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

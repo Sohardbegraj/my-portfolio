@@ -1,0 +1,2 @@
+
+093b63ee35eae63368bdc099e5fe78b2b807192d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/create-hmac/-/create-hmac-1.1.7.tgz","integrity":null,"time":1748782089224,"size":"0","metadata":{"time":1748782089224,"url":"http://registry.npmjs.org/create-hmac/-/create-hmac-1.1.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:08 GMT","location":"https://registry.npmjs.org/create-hmac/-/create-hmac-1.1.7.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+06f6e750d300fb4a7be92f10a9dfac3a85bd70c5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/camelize","integrity":null,"time":1748782030775,"size":"0","metadata":{"time":1748782030774,"url":"http://registry.npmjs.org/camelize","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:10 GMT","location":"https://registry.npmjs.org/camelize","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

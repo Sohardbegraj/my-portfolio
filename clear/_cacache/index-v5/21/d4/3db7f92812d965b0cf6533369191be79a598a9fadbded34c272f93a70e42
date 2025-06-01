@@ -1,0 +1,2 @@
+
+7b3b10a5034aeab0e3534a776224c217ddd9ce97	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pinkie","integrity":null,"time":1748782020361,"size":"0","metadata":{"time":1748782020360,"url":"http://registry.npmjs.org/pinkie","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:59 GMT","location":"https://registry.npmjs.org/pinkie","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

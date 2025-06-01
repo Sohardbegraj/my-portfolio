@@ -1,0 +1,2 @@
+
+a94b8e54dc76d8770f0a2c5f1409342943093de0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tsconfig-paths","integrity":null,"time":1748781974618,"size":"0","metadata":{"time":1748781974618,"url":"http://registry.npmjs.org/tsconfig-paths","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:13 GMT","location":"https://registry.npmjs.org/tsconfig-paths","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

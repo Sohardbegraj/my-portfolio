@@ -1,0 +1,2 @@
+
+259803a72f9af2883a86c78302f2bd0ac44c4fc4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gauge/-/gauge-2.7.4.tgz","integrity":null,"time":1748782107544,"size":"0","metadata":{"time":1748782107544,"url":"http://registry.npmjs.org/gauge/-/gauge-2.7.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:26 GMT","location":"https://registry.npmjs.org/gauge/-/gauge-2.7.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

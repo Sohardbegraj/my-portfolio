@@ -1,0 +1,2 @@
+
+325cd9b1b748e62dc14c46fb58af3949b07d6c69	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-colors/-/ansi-colors-3.2.4.tgz","integrity":null,"time":1748782086153,"size":"0","metadata":{"time":1748782086153,"url":"http://registry.npmjs.org/ansi-colors/-/ansi-colors-3.2.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:05 GMT","location":"https://registry.npmjs.org/ansi-colors/-/ansi-colors-3.2.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

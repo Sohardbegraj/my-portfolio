@@ -1,0 +1,2 @@
+
+fd9be328c4c9828db0a75479f05f0f2384210ff2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/event-emitter/-/event-emitter-0.3.5.tgz","integrity":null,"time":1748782092478,"size":"0","metadata":{"time":1748782092478,"url":"http://registry.npmjs.org/event-emitter/-/event-emitter-0.3.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:48:11 GMT","location":"https://registry.npmjs.org/event-emitter/-/event-emitter-0.3.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

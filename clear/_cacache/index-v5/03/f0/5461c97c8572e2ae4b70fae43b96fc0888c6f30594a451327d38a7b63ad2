@@ -1,0 +1,2 @@
+
+e8fbe9e1b612280c3979335e1e40d7d541d6434e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-boolean-object","integrity":null,"time":1748782036228,"size":"0","metadata":{"time":1748782036228,"url":"http://registry.npmjs.org/is-boolean-object","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:47:15 GMT","location":"https://registry.npmjs.org/is-boolean-object","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

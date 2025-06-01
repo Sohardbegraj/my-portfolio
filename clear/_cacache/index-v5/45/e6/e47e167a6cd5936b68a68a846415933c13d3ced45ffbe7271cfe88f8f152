@@ -1,0 +1,2 @@
+
+5bfaf2ad541004c9f51b5c1b0dc7a511fbee9110	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/write-file-atomic","integrity":null,"time":1748781987803,"size":"0","metadata":{"time":1748781987803,"url":"http://registry.npmjs.org/write-file-atomic","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 01 Jun 2025 12:46:27 GMT","location":"https://registry.npmjs.org/write-file-atomic","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
