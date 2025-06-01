@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import Terminal from './terminal'
-
+import Terminal from './Terminal'
 import Chat from './chat'
 
 
