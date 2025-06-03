@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
-import { FaTimes, FaMinus } from 'react-icons/fa';
+import { FaMinus } from 'react-icons/fa';
 
 const MESSAGE_DB = {
   swear: ['mkl', 'bkl', 'gandu', 'moron', 'bastard', 'fucking', 'wtf','fuck','kya bakchodi', 'gali', 'gali de', 'gali mat de', 'gali mat do'],

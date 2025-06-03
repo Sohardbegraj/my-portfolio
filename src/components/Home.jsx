@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {  useState } from 'react'
 import Terminal from './Terminal'
 import Chat from './chat'
 
@@ -6,13 +6,15 @@ import Chat from './chat'
 const Home = () => {
   const [showTerminal, setShowTerminal] = useState(false);
   return (
-    <div className='md:bg-[url("./assets/main.png")] bg-[url("./assets/f74309d2-f3e5-45ce-b1dc-9a1b2d13f3f3.png")] bg-contain bg-no-repeat md:bg-[#f4b853] bg-[#213d55] bg-center min-h-screen text-white font-mono flex'>
-        <div class="flex flex-col items-center text-center text-white bg-transparent h-fit py-8 px-6 mx-0 lg:mt-48 lg:mx-96 mb-32 xl:w-6/12 w-full z-10 rounded-b-lg  ">
+    <div className='md:bg-[url("./assets/main.png")] bg-[url("./assets/f74309d2-f3e5-45ce-b1dc-9a1b2d13f3f3.png")] bg-contain bg-no-repeat md:bg-[#f4b853] bg-[#213d55] bg-center min-h-screen text-white font-mono flex overflow-hidden'>
+        <div className="flex flex-col items-center text-center text-white bg-transparent h-fit py-8 px-6 mx-0 lg:mt-48 lg:mx-96 mb-32 xl:w-6/12 w-full z-10 rounded-b-lg  ">
         {
-          showTerminal && <Terminal setShowTerminal={setShowTerminal} />
+          showTerminal && <Terminal setShowTerminal={setShowTerminal}/>
         }
         </div>
-        <button className='bg-black absolute top-14 left-14 text-white text-xs p-2 lg:h-fit md:w-fit rounded-md'  onClick={()=>setShowTerminal(!showTerminal)}>
+        
+          <button
+  className='bg-black absolute top-14 left-14 text-white md:text-xl text-xs p-2  rounded-md'  onClick={()=>setShowTerminal(!showTerminal)}>
           <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="50px" height="50px" viewBox="0 0 24 24" version="1.1">
  <g transform="translate(0 -1028.4)">
   <path d="m3 1030.4c-1.1046 0-2 0.9-2 2v7 2 7c0 1.1 0.8954 2 2 2h9 9c1.105 0 2-0.9 2-2v-7-2-7c0-1.1-0.895-2-2-2h-9-9z" fill="#2c3e50"/>

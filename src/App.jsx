@@ -2,6 +2,7 @@
 import './App.css'
 import Home from './components/Home'
 import React, { useState, useEffect } from 'react';
+import Loading from './components/Loading';
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -10,20 +11,20 @@ function App() {
     // Simulate a loading delay
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 2000); // 4 seconds
+    }, 7000); // 7 seconds
 
     return () => clearTimeout(timer);
   }, []);
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center h-screen bg-gray-950 text-7xl text-white font-mono">
-        <h2>Loading...</h2>
+      <div className="flex items-center justify-center h-screen bg-gray-950 text-2xl text-white font-mono">
+       <Loading/>
       </div>
     );
   }
   return (
-    <div className=''>
+    <div className="bg-gray-950 text-white font-mono min-h-screen">
       <Home/>
          </div>
   )

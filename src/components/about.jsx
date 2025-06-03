@@ -12,7 +12,7 @@ export default function About({ setShowAbout }) {
           >
             Close
           </button>
-    <div className="h-screen w-screen  backdrop-blur-2xl text-white md:px-36 lg:px-60 md:py-6 flex flex-col lg:flex-row gap-6">
+    <div className="h-screen w-screen backdrop-blur-2xl  text-white md:px-36 lg:px-60 md:py-6 flex flex-col lg:flex-row gap-6">
       {/* Left Sidebar */}
       <div className="md:max-w-sm h-fit sm:w-screen bg-gray-800 text-white p-6 rounded-2xl shadow-lg">
         <div className="flex flex-col items-center">
