@@ -4,7 +4,7 @@ Welcome to my personal website repository! 🚀
 
 ## About Me
 
-I'm **Sohard begraj**, a student of Mathematics and Computing who is passionate about learning, coding, and problem-solving. I'm enthusiastic about Data Structures & Algorithms, web development (MERN stack), Python, and currently exploring Rust by planning to build a chess engine. I enjoy playing chess, tackling LeetCode problems, and always strive to learn something new!
+I'm **Sohard begraj**, a student of Mathematics and Computing who is passionate about learning, coding, and problem-solving. I'm enthusiastic about data structures and algorithms, web development (MERN stack), Python, and currently exploring Rust, with plans to build a chess engine. I enjoy playing chess, tackling LeetCode problems, and always strive to learn something new!
 
 ## 🌐 What’s Here
 
@@ -32,7 +32,7 @@ This website is my digital home to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sohardbegraj/personal-website.git
+   git clone https://github.com/Sohardbegraj/my-portfolio.git
    ```
 2. Install dependencies:
    ```bash
@@ -40,7 +40,7 @@ This website is my digital home to:
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -53,4 +53,4 @@ This website is my digital home to:
 - Add more features as I learn and experiment!
 
 
-Thanks for visiting my repository! Stay tuned for more updates as my website (and my journey) grows.
+Thanks for visiting my repository! Stay tuned for more updates as my website (and my journey) grow.
