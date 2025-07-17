@@ -52,7 +52,7 @@ const Searchbar = () => {
         setShowContact(false);
       }
       else if (name === 'cat resume') {
-        window.location.href = 'https://drive.google.com/file/d/1UoBMD-Omt7ovyzlHYQzNSv8M-RvhJKak/view?usp=chrome_ntp'; // Redirect to resume page
+        window.location.href = 'https://drive.google.com/drive/folders/1Ue43XZ9PFinnh_c4CYlHT49hH1dPRRzE'; // Redirect to resume page
       }
       else if (name === 'cat github') {
         window.location.href = 'https://github.com/Sohardbegraj'; // Redirect to github page
